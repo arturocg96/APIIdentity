@@ -1,0 +1,275 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ArturoCarrascoGonz\u00E1l\\source\\repos\\APIIdentity\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B426420A-8F02-4234-8FC2-D37CA07C0E79}|APIIdentity\\APIIdentity.csproj|c:\\users\\arturocarrascogonz\u00E1l\\source\\repos\\apiidentity\\apiidentity\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B426420A-8F02-4234-8FC2-D37CA07C0E79}|APIIdentity\\APIIdentity.csproj|solutionrelative:apiidentity\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B426420A-8F02-4234-8FC2-D37CA07C0E79}|APIIdentity\\APIIdentity.csproj|c:\\users\\arturocarrascogonz\u00E1l\\source\\repos\\apiidentity\\apiidentity\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B426420A-8F02-4234-8FC2-D37CA07C0E79}|APIIdentity\\APIIdentity.csproj|solutionrelative:apiidentity\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B426420A-8F02-4234-8FC2-D37CA07C0E79}|APIIdentity\\APIIdentity.csproj|c:\\users\\arturocarrascogonz\u00E1l\\source\\repos\\apiidentity\\apiidentity\\repositorio\\usuariorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B426420A-8F02-4234-8FC2-D37CA07C0E79}|APIIdentity\\APIIdentity.csproj|solutionrelative:apiidentity\\repositorio\\usuariorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B426420A-8F02-4234-8FC2-D37CA07C0E79}|APIIdentity\\APIIdentity.csproj|c:\\users\\arturocarrascogonz\u00E1l\\source\\repos\\apiidentity\\apiidentity\\repositorio\\irepositorio\\iusuariorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B426420A-8F02-4234-8FC2-D37CA07C0E79}|APIIdentity\\APIIdentity.csproj|solutionrelative:apiidentity\\repositorio\\irepositorio\\iusuariorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B426420A-8F02-4234-8FC2-D37CA07C0E79}|APIIdentity\\APIIdentity.csproj|c:\\users\\arturocarrascogonz\u00E1l\\source\\repos\\apiidentity\\apiidentity\\modelos\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B426420A-8F02-4234-8FC2-D37CA07C0E79}|APIIdentity\\APIIdentity.csproj|solutionrelative:apiidentity\\modelos\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B426420A-8F02-4234-8FC2-D37CA07C0E79}|APIIdentity\\APIIdentity.csproj|c:\\users\\arturocarrascogonz\u00E1l\\source\\repos\\apiidentity\\apiidentity\\modelos\\respuestaapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B426420A-8F02-4234-8FC2-D37CA07C0E79}|APIIdentity\\APIIdentity.csproj|solutionrelative:apiidentity\\modelos\\respuestaapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B426420A-8F02-4234-8FC2-D37CA07C0E79}|APIIdentity\\APIIdentity.csproj|c:\\users\\arturocarrascogonz\u00E1l\\source\\repos\\apiidentity\\apiidentity\\modelos\\appusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B426420A-8F02-4234-8FC2-D37CA07C0E79}|APIIdentity\\APIIdentity.csproj|solutionrelative:apiidentity\\modelos\\appusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B426420A-8F02-4234-8FC2-D37CA07C0E79}|APIIdentity\\APIIdentity.csproj|c:\\users\\arturocarrascogonz\u00E1l\\source\\repos\\apiidentity\\apiidentity\\modelos\\dtos\\usuarioregistrodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B426420A-8F02-4234-8FC2-D37CA07C0E79}|APIIdentity\\APIIdentity.csproj|solutionrelative:apiidentity\\modelos\\dtos\\usuarioregistrodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B426420A-8F02-4234-8FC2-D37CA07C0E79}|APIIdentity\\APIIdentity.csproj|c:\\users\\arturocarrascogonz\u00E1l\\source\\repos\\apiidentity\\apiidentity\\modelos\\dtos\\usuariologinrespuestadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B426420A-8F02-4234-8FC2-D37CA07C0E79}|APIIdentity\\APIIdentity.csproj|solutionrelative:apiidentity\\modelos\\dtos\\usuariologinrespuestadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B426420A-8F02-4234-8FC2-D37CA07C0E79}|APIIdentity\\APIIdentity.csproj|c:\\users\\arturocarrascogonz\u00E1l\\source\\repos\\apiidentity\\apiidentity\\modelos\\dtos\\usuariologindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B426420A-8F02-4234-8FC2-D37CA07C0E79}|APIIdentity\\APIIdentity.csproj|solutionrelative:apiidentity\\modelos\\dtos\\usuariologindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B426420A-8F02-4234-8FC2-D37CA07C0E79}|APIIdentity\\APIIdentity.csproj|c:\\users\\arturocarrascogonz\u00E1l\\source\\repos\\apiidentity\\apiidentity\\modelos\\dtos\\usuariodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B426420A-8F02-4234-8FC2-D37CA07C0E79}|APIIdentity\\APIIdentity.csproj|solutionrelative:apiidentity\\modelos\\dtos\\usuariodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B426420A-8F02-4234-8FC2-D37CA07C0E79}|APIIdentity\\APIIdentity.csproj|c:\\users\\arturocarrascogonz\u00E1l\\source\\repos\\apiidentity\\apiidentity\\modelos\\dtos\\usuariodatosdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B426420A-8F02-4234-8FC2-D37CA07C0E79}|APIIdentity\\APIIdentity.csproj|solutionrelative:apiidentity\\modelos\\dtos\\usuariodatosdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B426420A-8F02-4234-8FC2-D37CA07C0E79}|APIIdentity\\APIIdentity.csproj|c:\\users\\arturocarrascogonz\u00E1l\\source\\repos\\apiidentity\\apiidentity\\mapper\\usuariosmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B426420A-8F02-4234-8FC2-D37CA07C0E79}|APIIdentity\\APIIdentity.csproj|solutionrelative:apiidentity\\mapper\\usuariosmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B426420A-8F02-4234-8FC2-D37CA07C0E79}|APIIdentity\\APIIdentity.csproj|c:\\users\\arturocarrascogonz\u00E1l\\source\\repos\\apiidentity\\apiidentity\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B426420A-8F02-4234-8FC2-D37CA07C0E79}|APIIdentity\\APIIdentity.csproj|solutionrelative:apiidentity\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B426420A-8F02-4234-8FC2-D37CA07C0E79}|APIIdentity\\APIIdentity.csproj|c:\\users\\arturocarrascogonz\u00E1l\\source\\repos\\apiidentity\\apiidentity\\controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B426420A-8F02-4234-8FC2-D37CA07C0E79}|APIIdentity\\APIIdentity.csproj|solutionrelative:apiidentity\\controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ArturoCarrascoGonz\u00E1l\\source\\repos\\APIIdentity\\APIIdentity\\appsettings.json",
+              "RelativeDocumentMoniker": "APIIdentity\\appsettings.json",
+              "ToolTip": "C:\\Users\\ArturoCarrascoGonz\u00E1l\\source\\repos\\APIIdentity\\APIIdentity\\appsettings.json",
+              "RelativeToolTip": "APIIdentity\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-14T09:54:39.725Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\ArturoCarrascoGonz\u00E1l\\source\\repos\\APIIdentity\\APIIdentity\\Modelos\\Usuario.cs",
+              "RelativeDocumentMoniker": "APIIdentity\\Modelos\\Usuario.cs",
+              "ToolTip": "C:\\Users\\ArturoCarrascoGonz\u00E1l\\source\\repos\\APIIdentity\\APIIdentity\\Modelos\\Usuario.cs",
+              "RelativeToolTip": "APIIdentity\\Modelos\\Usuario.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T09:52:17.044Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RespuestaAPI.cs",
+              "DocumentMoniker": "C:\\Users\\ArturoCarrascoGonz\u00E1l\\source\\repos\\APIIdentity\\APIIdentity\\Modelos\\RespuestaAPI.cs",
+              "RelativeDocumentMoniker": "APIIdentity\\Modelos\\RespuestaAPI.cs",
+              "ToolTip": "C:\\Users\\ArturoCarrascoGonz\u00E1l\\source\\repos\\APIIdentity\\APIIdentity\\Modelos\\RespuestaAPI.cs",
+              "RelativeToolTip": "APIIdentity\\Modelos\\RespuestaAPI.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T09:52:00.792Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AppUsuario.cs",
+              "DocumentMoniker": "C:\\Users\\ArturoCarrascoGonz\u00E1l\\source\\repos\\APIIdentity\\APIIdentity\\Modelos\\AppUsuario.cs",
+              "RelativeDocumentMoniker": "APIIdentity\\Modelos\\AppUsuario.cs",
+              "ToolTip": "C:\\Users\\ArturoCarrascoGonz\u00E1l\\source\\repos\\APIIdentity\\APIIdentity\\Modelos\\AppUsuario.cs",
+              "RelativeToolTip": "APIIdentity\\Modelos\\AppUsuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T09:51:43.277Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UsuarioRegistroDto.cs",
+              "DocumentMoniker": "C:\\Users\\ArturoCarrascoGonz\u00E1l\\source\\repos\\APIIdentity\\APIIdentity\\Modelos\\Dtos\\UsuarioRegistroDto.cs",
+              "RelativeDocumentMoniker": "APIIdentity\\Modelos\\Dtos\\UsuarioRegistroDto.cs",
+              "ToolTip": "C:\\Users\\ArturoCarrascoGonz\u00E1l\\source\\repos\\APIIdentity\\APIIdentity\\Modelos\\Dtos\\UsuarioRegistroDto.cs",
+              "RelativeToolTip": "APIIdentity\\Modelos\\Dtos\\UsuarioRegistroDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T09:51:25.571Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UsuarioDto.cs",
+              "DocumentMoniker": "C:\\Users\\ArturoCarrascoGonz\u00E1l\\source\\repos\\APIIdentity\\APIIdentity\\Modelos\\Dtos\\UsuarioDto.cs",
+              "RelativeDocumentMoniker": "APIIdentity\\Modelos\\Dtos\\UsuarioDto.cs",
+              "ToolTip": "C:\\Users\\ArturoCarrascoGonz\u00E1l\\source\\repos\\APIIdentity\\APIIdentity\\Modelos\\Dtos\\UsuarioDto.cs",
+              "RelativeToolTip": "APIIdentity\\Modelos\\Dtos\\UsuarioDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T09:50:19.692Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UsuarioLoginRespuestaDto.cs",
+              "DocumentMoniker": "C:\\Users\\ArturoCarrascoGonz\u00E1l\\source\\repos\\APIIdentity\\APIIdentity\\Modelos\\Dtos\\UsuarioLoginRespuestaDto.cs",
+              "RelativeDocumentMoniker": "APIIdentity\\Modelos\\Dtos\\UsuarioLoginRespuestaDto.cs",
+              "ToolTip": "C:\\Users\\ArturoCarrascoGonz\u00E1l\\source\\repos\\APIIdentity\\APIIdentity\\Modelos\\Dtos\\UsuarioLoginRespuestaDto.cs",
+              "RelativeToolTip": "APIIdentity\\Modelos\\Dtos\\UsuarioLoginRespuestaDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T09:41:04.947Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UsuarioLoginDto.cs",
+              "DocumentMoniker": "C:\\Users\\ArturoCarrascoGonz\u00E1l\\source\\repos\\APIIdentity\\APIIdentity\\Modelos\\Dtos\\UsuarioLoginDto.cs",
+              "RelativeDocumentMoniker": "APIIdentity\\Modelos\\Dtos\\UsuarioLoginDto.cs",
+              "ToolTip": "C:\\Users\\ArturoCarrascoGonz\u00E1l\\source\\repos\\APIIdentity\\APIIdentity\\Modelos\\Dtos\\UsuarioLoginDto.cs",
+              "RelativeToolTip": "APIIdentity\\Modelos\\Dtos\\UsuarioLoginDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T09:40:56.219Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IUsuarioRepositorio.cs",
+              "DocumentMoniker": "C:\\Users\\ArturoCarrascoGonz\u00E1l\\source\\repos\\APIIdentity\\APIIdentity\\Repositorio\\IRepositorio\\IUsuarioRepositorio.cs",
+              "RelativeDocumentMoniker": "APIIdentity\\Repositorio\\IRepositorio\\IUsuarioRepositorio.cs",
+              "ToolTip": "C:\\Users\\ArturoCarrascoGonz\u00E1l\\source\\repos\\APIIdentity\\APIIdentity\\Repositorio\\IRepositorio\\IUsuarioRepositorio.cs",
+              "RelativeToolTip": "APIIdentity\\Repositorio\\IRepositorio\\IUsuarioRepositorio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T09:39:33.521Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ArturoCarrascoGonz\u00E1l\\source\\repos\\APIIdentity\\APIIdentity\\Program.cs",
+              "RelativeDocumentMoniker": "APIIdentity\\Program.cs",
+              "ToolTip": "C:\\Users\\ArturoCarrascoGonz\u00E1l\\source\\repos\\APIIdentity\\APIIdentity\\Program.cs",
+              "RelativeToolTip": "APIIdentity\\Program.cs",
+              "ViewState": "AgIAAF0AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T09:37:41.966Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UsuarioDatosDto.cs",
+              "DocumentMoniker": "C:\\Users\\ArturoCarrascoGonz\u00E1l\\source\\repos\\APIIdentity\\APIIdentity\\Modelos\\Dtos\\UsuarioDatosDto.cs",
+              "RelativeDocumentMoniker": "APIIdentity\\Modelos\\Dtos\\UsuarioDatosDto.cs",
+              "ToolTip": "C:\\Users\\ArturoCarrascoGonz\u00E1l\\source\\repos\\APIIdentity\\APIIdentity\\Modelos\\Dtos\\UsuarioDatosDto.cs",
+              "RelativeToolTip": "APIIdentity\\Modelos\\Dtos\\UsuarioDatosDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T09:49:33.696Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UsuarioRepositorio.cs",
+              "DocumentMoniker": "C:\\Users\\ArturoCarrascoGonz\u00E1l\\source\\repos\\APIIdentity\\APIIdentity\\Repositorio\\UsuarioRepositorio.cs",
+              "RelativeDocumentMoniker": "APIIdentity\\Repositorio\\UsuarioRepositorio.cs",
+              "ToolTip": "C:\\Users\\ArturoCarrascoGonz\u00E1l\\source\\repos\\APIIdentity\\APIIdentity\\Repositorio\\UsuarioRepositorio.cs",
+              "RelativeToolTip": "APIIdentity\\Repositorio\\UsuarioRepositorio.cs",
+              "ViewState": "AgIAAFsAAAAAAAAAAAAcwCEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T09:39:31.969Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "UsuariosController.cs",
+              "DocumentMoniker": "C:\\Users\\ArturoCarrascoGonz\u00E1l\\source\\repos\\APIIdentity\\APIIdentity\\Controllers\\UsuariosController.cs",
+              "RelativeDocumentMoniker": "APIIdentity\\Controllers\\UsuariosController.cs",
+              "ToolTip": "C:\\Users\\ArturoCarrascoGonz\u00E1l\\source\\repos\\APIIdentity\\APIIdentity\\Controllers\\UsuariosController.cs",
+              "RelativeToolTip": "APIIdentity\\Controllers\\UsuariosController.cs",
+              "ViewState": "AgIAAFkAAAAAAAAAAAAIwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T09:45:27.474Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\ArturoCarrascoGonz\u00E1l\\source\\repos\\APIIdentity\\APIIdentity\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "APIIdentity\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\ArturoCarrascoGonz\u00E1l\\source\\repos\\APIIdentity\\APIIdentity\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "APIIdentity\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T09:38:30.042Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UsuariosMapper.cs",
+              "DocumentMoniker": "C:\\Users\\ArturoCarrascoGonz\u00E1l\\source\\repos\\APIIdentity\\APIIdentity\\Mapper\\UsuariosMapper.cs",
+              "RelativeDocumentMoniker": "APIIdentity\\Mapper\\UsuariosMapper.cs",
+              "ToolTip": "C:\\Users\\ArturoCarrascoGonz\u00E1l\\source\\repos\\APIIdentity\\APIIdentity\\Mapper\\UsuariosMapper.cs",
+              "RelativeToolTip": "APIIdentity\\Mapper\\UsuariosMapper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T09:38:27.044Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
